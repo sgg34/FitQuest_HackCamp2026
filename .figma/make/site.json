@@ -2,7 +2,7 @@
   "title": "FIT QUEST",
   "description": "Train through interactive exercises to improve your character’s stats, then battle bosses in a charming pixel-art RPG that saves your progress.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
